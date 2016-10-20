@@ -1,5 +1,14 @@
 div {
-  background-color: azure;
-  border: 1px solid aquamarine;
-  padding: 30px;
+    background-color: azure;
+    border: 1px solid aquamarine;
+    padding: 30px;
+}
+
+#link-wrapper {
+    font-size: small;
+}
+
+#link-wrapper a {
+    color: gray;
+    text-decoration: none;
 }
